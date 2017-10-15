@@ -1,5 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^modelbuider$
-^Dockerfile$
 ^README.md$
+^openCPU$
