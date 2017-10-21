@@ -1,5 +1,8 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^modelbuider$
+^.git$
+^.gitignore$
+^.Rhistory$
+^modelbuilder$
 ^README.md$
 ^openCPU$
